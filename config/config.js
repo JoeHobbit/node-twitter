@@ -39,7 +39,7 @@ module.exports = {
     github: {
       clientID: "6e27a1f7305a5fcfdb23",
       clientSecret: "b1f918fc2a84e427de21cbcb87da060e5e0a240c",
-      callbackURL: "https://bash-twits.herokuapp.com/auth/github/callback"
+      callbackURL: "https://www.bashtwits.com/auth/github/callback"
     }
   }
 };
